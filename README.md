@@ -21,6 +21,6 @@ Para la realización de esta tarea, he buscado información y tutoriales en los 
 
 2. Como ya tenia una cuenta en github, he creado un nuevo repositorio y he subido los 3 archivos creados anteriormente.
 
-3. Para comprobar el archivo html he utilizado la pagina [Raw.githack] (https://raw.githack.com/) y el resultado ha sido satisfactorio (Adjunto fotos en los documentos subidos).
+3. Para comprobar el archivo html he utilizado la pagina [Raw.githack](https://raw.githack.com/) y el resultado ha sido satisfactorio (Adjunto fotos en los documentos subidos).
 
 4. He modificado el archivo **readme.md** utilizando varios comandos como se pide y se puede comprobar en este texto.
