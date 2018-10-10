@@ -17,7 +17,7 @@ Para la realización de esta tarea, he buscado información y tutoriales en los 
 
 ## PASOS SEGUIDOS PARA LA REALIZACION DE LA TAREA
 
-1. Primero de todo he creado tres archivos **.txt.**, una vez creados he copia los ejemplos de RTF, HTML y XML dentro de los archivos para finalizar he renombrado los archivos con las extensiones deseadas.
+1. Primero de todo he creado tres archivos *.txt.*, una vez creados he copia los ejemplos de RTF, HTML y XML dentro de los archivos para finalizar he renombrado los archivos con las extensiones deseadas.
 
 2. Como ya tenia una cuenta en github, he creado un nuevo repositorio y he subido los 3 archivos creados anteriormente.
 
