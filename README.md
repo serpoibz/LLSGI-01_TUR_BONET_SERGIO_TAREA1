@@ -15,7 +15,7 @@ Para la realización de esta tarea, he buscado información y tutoriales en los 
 2. [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 
 
-##PASOS SEGUIDOS PARA LA REALIZACION DE LA TAREA
+## PASOS SEGUIDOS PARA LA REALIZACION DE LA TAREA
 
 1. Primero de todo he creado tres archivos **.txt.**, una vez creados he copia los ejemplos de RTF, HTML y XML dentro de los archivos para finalizar he renombrado los archivos con las extensiones deseadas.
 
