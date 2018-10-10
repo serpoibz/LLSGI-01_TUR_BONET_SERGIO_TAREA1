@@ -13,3 +13,14 @@ Para la realización de esta tarea, he buscado información y tutoriales en los 
 
 1. [Markdown](https://www.arturogoga.com/tutorial-markdown-manera-simple-de-crear-texto-con-formato-especiales/)
 2. [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
+
+
+##PASOS SEGUIDOS PARA LA REALIZACION DE LA TAREA
+
+1. Primero de todo he creado tres archivos **.txt.**, una vez creados he copia los ejemplos de RTF, HTML y XML dentro de los archivos para finalizar he renombrado los archivos con las extensiones deseadas.
+
+2. Como ya tenia una cuenta en github, he creado un nuevo repositorio y he subido los 3 archivos creados anteriormente.
+
+3. Para comprobar el archivo html he utilizado la pagina [Raw.githack] (https://raw.githack.com/) y el resultado ha sido satisfactorio (Adjunto fotos en los documentos subidos).
+
+4. He modificado el archivo **readme.md** utilizando varios comandos como se pide y se puede comprobar en este texto.
